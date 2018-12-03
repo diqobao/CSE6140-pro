@@ -5,3 +5,5 @@ output/*
 *.tsp
 *.tour
 *.json
+.idea
+.vccode
