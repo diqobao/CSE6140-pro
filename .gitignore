@@ -1,0 +1,7 @@
+output/*
+
+*.sol
+*.trace
+*.tsp
+*.tour
+*.json

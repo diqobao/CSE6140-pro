@@ -34,4 +34,3 @@ def getdis(input_file):
   return value
 
 ##value is a matrix saving the distance of each pair of nodes
-
